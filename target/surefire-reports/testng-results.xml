@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="14" passed="14" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-20T17:49:04 IST" name="Suite" finished-at="2023-02-20T17:49:04 IST" duration-ms="136">
+    <groups>
+    </groups>
+    <test started-at="2023-02-20T17:49:04 IST" name="Test" finished-at="2023-02-20T17:49:04 IST" duration-ms="136">
+      <class name="Retesting.Product">
+        <test-method signature="verifyElectronicItems()[pri:0, instance:Retesting.Product@663c9e7a]" started-at="2023-02-20T17:49:04 IST" name="verifyElectronicItems" finished-at="2023-02-20T17:49:04 IST" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyElectronicItems -->
+        <test-method signature="verifyKitchenApplience()[pri:0, instance:Retesting.Product@663c9e7a]" started-at="2023-02-20T17:49:04 IST" name="verifyKitchenApplience" finished-at="2023-02-20T17:49:04 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyKitchenApplience -->
+        <test-method signature="verifyHomeDecor()[pri:0, instance:Retesting.Product@663c9e7a]" started-at="2023-02-20T17:49:04 IST" name="verifyHomeDecor" finished-at="2023-02-20T17:49:04 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomeDecor -->
+        <test-method signature="verifyGrocery()[pri:0, instance:Retesting.Product@663c9e7a]" started-at="2023-02-20T17:49:04 IST" name="verifyGrocery" finished-at="2023-02-20T17:49:04 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGrocery -->
+      </class> <!-- Retesting.Product -->
+      <class name="Retesting.Payment">
+        <test-method signature="verifyCreditcardPayment()[pri:0, instance:Retesting.Payment@cb0755b]" started-at="2023-02-20T17:49:04 IST" name="verifyCreditcardPayment" finished-at="2023-02-20T17:49:04 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCreditcardPayment -->
+        <test-method signature="verifyElectronicItemsPayment()[pri:0, instance:Retesting.Payment@cb0755b]" started-at="2023-02-20T17:49:04 IST" name="verifyElectronicItemsPayment" finished-at="2023-02-20T17:49:04 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyElectronicItemsPayment -->
+        <test-method signature="verifyDebitcardPayment()[pri:0, instance:Retesting.Payment@cb0755b]" started-at="2023-02-20T17:49:04 IST" name="verifyDebitcardPayment" finished-at="2023-02-20T17:49:04 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDebitcardPayment -->
+        <test-method signature="verifyUPIPayment()[pri:0, instance:Retesting.Payment@cb0755b]" started-at="2023-02-20T17:49:04 IST" name="verifyUPIPayment" finished-at="2023-02-20T17:49:04 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUPIPayment -->
+        <test-method signature="verifyNetBanking()[pri:0, instance:Retesting.Payment@cb0755b]" started-at="2023-02-20T17:49:04 IST" name="verifyNetBanking" finished-at="2023-02-20T17:49:04 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNetBanking -->
+      </class> <!-- Retesting.Payment -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+  <suite started-at="2023-02-20T17:49:04 IST" name="Suite (0)" finished-at="2023-02-20T17:49:04 IST" duration-ms="16">
+    <groups>
+    </groups>
+    <test started-at="2023-02-20T17:49:04 IST" name="Test" finished-at="2023-02-20T17:49:04 IST" duration-ms="16">
+      <class name="SmokeTest.Login">
+        <test-method signature="verifyLoginWithMobile()[pri:0, instance:SmokeTest.Login@76494737]" started-at="2023-02-20T17:49:04 IST" name="verifyLoginWithMobile" finished-at="2023-02-20T17:49:04 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithMobile -->
+        <test-method signature="verifyLoginWithEmail()[pri:0, instance:SmokeTest.Login@76494737]" started-at="2023-02-20T17:49:04 IST" name="verifyLoginWithEmail" finished-at="2023-02-20T17:49:04 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithEmail -->
+      </class> <!-- SmokeTest.Login -->
+      <class name="SmokeTest.Homepage">
+        <test-method signature="verifyItems()[pri:0, instance:SmokeTest.Homepage@4a003cbe]" started-at="2023-02-20T17:49:04 IST" name="verifyItems" finished-at="2023-02-20T17:49:04 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyItems -->
+        <test-method signature="verifySearchButton()[pri:0, instance:SmokeTest.Homepage@4a003cbe]" started-at="2023-02-20T17:49:04 IST" name="verifySearchButton" finished-at="2023-02-20T17:49:04 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchButton -->
+        <test-method signature="verifySignInButton()[pri:0, instance:SmokeTest.Homepage@4a003cbe]" started-at="2023-02-20T17:49:04 IST" name="verifySignInButton" finished-at="2023-02-20T17:49:04 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySignInButton -->
+      </class> <!-- SmokeTest.Homepage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite (0) -->
+  <suite started-at="2023-02-20T17:49:04 IST" name="Master Suite" finished-at="2023-02-20T17:49:04 IST" duration-ms="0">
+    <groups>
+    </groups>
+  </suite> <!-- Master Suite -->
+</testng-results>
